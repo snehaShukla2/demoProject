@@ -1,0 +1,10 @@
+
+.person{
+    display:block;
+    width:60%;
+    margin:auto;
+    padding:10px;
+    border:1px solid #ddd;
+    box-shadow: 2px 2px #eee;
+    margin-bottom:10px
+}
